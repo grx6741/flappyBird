@@ -1,4 +1,4 @@
-# Bad Flappy Bird
+# Silly Flappy Bird
 
 This was an attempt to make a copy of Flappy bird, with very bad graphics.
 
