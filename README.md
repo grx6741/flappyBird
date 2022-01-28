@@ -10,9 +10,9 @@ Run `pip3 install -r requirements.txt` or `pip install -r requirements.txt` to i
 
 ## How to play the game
 
-1.Click to start the game.
-2.Dont touch the red bars ,you noob.
-3.If you die, press `Escape` key to close the game.
-4.I didn't add a restart functionality soooo, deal with it.
+- Click to start the game.
+- Dont touch the red bars ,you noob.
+- If you die, press `Escape` key to close the game.
+- I didn't add a restart functionality soooo, deal with it.
 
 ### Feel free to use the code
