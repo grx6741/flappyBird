@@ -17,3 +17,7 @@ Run `pip3 install -r requirements.txt` or `pip install -r requirements.txt` to i
 - I didn't add a restart functionality soooo, deal with it.
 
 ### Feel free to use the code
+
+# ToDo
+- Convert Code into Object Oriented
+- Improve the graphics
