@@ -11,7 +11,7 @@ Run `pip3 install -r requirements.txt` or `pip install -r requirements.txt` to i
 ## How to play the game
 
 - Click to start the game.
-- Press `Space bar` to flap the bird
+- Press `Space bar` for the bird to flap
 - Dont touch the green bars ,you noob.
 
 ### Feel free to use the code
